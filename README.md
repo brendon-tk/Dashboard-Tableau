@@ -25,8 +25,6 @@ This Tableau **Customer Analysis Dashboard** provides a **comprehensive view** o
 1. Open the **Tableau Workbook (.twbx)** or access the **Tableau Public Link**.
 2. Use filters to explore revenue trends for different categories and regions.
 
-## Contributors
-- **[Your Name]** - Data Visualization & Analysis  
 
 ## 📜 License
 This project is **open-source** under the [MIT License](LICENSE).
