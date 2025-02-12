@@ -1,39 +1,35 @@
-# Dashboard-Tableau
+# Customer Analysis Dashboard 📊
 
-Customer Analysis Dashboard 📊
-Overview
-This Tableau Customer Analysis Dashboard provides a comprehensive view of revenue trends, customer demographics, and sales performance. The dashboard helps stakeholders make data-driven decisions by visualizing key metrics such as revenue distribution, customer age groups, regional performance, and product category insights.
+## Overview
+This Tableau **Customer Analysis Dashboard** provides a **comprehensive view** of revenue trends, customer demographics, and sales performance. The dashboard helps stakeholders make **data-driven decisions** by visualizing key metrics such as **revenue distribution, customer age groups, regional performance, and product category insights**.
 
-Dashboard Highlights 🚀
-1. Revenue Trends
-📈 Revenue Per Month: Visualizes monthly revenue fluctuations to identify seasonal trends.
-🌍 Revenue Per State: A geographical heatmap showing revenue distribution across states.
-👥 Revenue Per Age Group: A breakdown of revenue contribution by customer age segments.
-2. Customer & Sales Insights
-🎯 Percentage Revenue Per Region: A donut chart that highlights regional revenue share.
-🛍️ Revenue Per Category by Gender: Compares revenue for different product categories split by gender.
-🔗 Correlation Between Quantity & Discount %: A scatter plot that examines the impact of discount percentage on the quantity of products ordered.
+## 📌 Dashboard Preview
+![Customer Analysis Dashboard](dashboard.png)
 
-Key Business Insights 🔍
-Identifies high-performing states and regions for targeted marketing efforts.
-Helps optimize product strategies based on gender-based revenue patterns.
-Shows which age groups contribute most to revenue, assisting in customer segmentation.
-Analyzes the effect of discounts on sales volume to maximize revenue without over-discounting.
+## Dashboard Highlights 🚀
+### 1. Revenue Trends
+- 📈 **Revenue Per Month**: Visualizes monthly revenue fluctuations.
+- 🌍 **Revenue Per State**: Geographical revenue distribution.
+- 👥 **Revenue Per Age Group**: Breakdown of revenue by customer age.
 
-Technologies Used 💻
-Tableau: Data visualization and dashboard creation.
-Excel / CSV: Data source used for analysis.
-GitHub: Version control and documentation.
+### 2. Customer & Sales Insights
+- 🎯 **Percentage Revenue Per Region**: Regional revenue share.
+- 🛍️ **Revenue Per Category by Gender**: Compares sales by gender.
+- 🔗 **Correlation Between Quantity & Discount %**: Analyzes discount impact.
 
-How to Use the Dashboard
-Open the Tableau Workbook (.twbx) or access the Tableau Public Link (if applicable).
-Interact with filters to explore revenue trends for different product categories, regions, and customer segments.
-Use insights from the correlation analysis to optimize discount strategies.
+## 🔮 Future Enhancements
+- Adding **predictive analytics** for revenue forecasting.
+- Integration with **live databases** for real-time insights.
 
-Future Enhancements 🔮
-Adding predictive analytics for revenue forecasting.
-Integration with live databases for real-time insights.
-Enhancing UI with interactive tooltips and drill-downs.
+## 🚀 How to Use
+1. Open the **Tableau Workbook (.twbx)** or access the **Tableau Public Link**.
+2. Use filters to explore revenue trends for different categories and regions.
+
+## Contributors
+- **[Your Name]** - Data Visualization & Analysis  
+
+## 📜 License
+This project is **open-source** under the [MIT License](LICENSE).
 
 Contributors
 Brendon Matsikinya - Data Visualization & Analysis
